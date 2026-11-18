@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Dimana 👋
 
-<!--
-**dimanadollo/dimanadollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sales & Marketing leader in HealthTech, based in Madrid. I get genuinely excited about where **go-to-market** meets **AI**, and then I actually build the systems instead of just talking about them.
 
-Here are some ideas to get you started:
+### 🧩 What I do
+- 📈 **GTM & Sales** in B2B SaaS / HealthTech (currently Senior Sales Manager at Recare)
+- 🤖 **AI for real workflows**, from lead research to a personal "chief of staff"
+- 🧪 Obsessed with **daily 1% improvements** and automating the boring parts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 What lives here
+- Practical **AI + GTM** playbooks and prompts I actually use
+- Personal-automation experiments (the stuff that runs while I sleep)
+- Notes from building at the edge of sales, marketing and AI
+
+### 🌍 A bit about me
+- Languages: German · English · Spanish · Portuguese
+- Background across Amazon, Dyson, Personio, Seedtag and now HealthTech
+
+> Not a traditional dev. A go-to-market operator who builds. 🚀

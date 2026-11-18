@@ -1,6 +1,6 @@
 ## Hi, I'm Dimana 👋
 
-Sales & Marketing leader in HealthTech, based in Madrid. I get genuinely excited about where **go-to-market** meets **AI**, and then I actually build the systems instead of just talking about them.
+Sales & Marketing leader in HealthTech, based in Madrid. I get genuinely excited about where **go-to-market** meets **AI**.
 
 ### 🧩 What I do
 - 📈 **GTM & Sales** in B2B SaaS / HealthTech (currently Senior Sales Manager at Recare)
